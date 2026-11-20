@@ -1,0 +1,22 @@
+.env
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+.AppleDouble/
+.LSOverride
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
